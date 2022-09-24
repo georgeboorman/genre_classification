@@ -25,7 +25,6 @@ def go(config: DictConfig):
 
     # Download step
     if "download" in steps_to_execute:
-
         _ = mlflow.run(
             os.path.join(root_path, "download"),
             "main",
@@ -50,8 +49,6 @@ def go(config: DictConfig):
         )
 
     if "check_data" in steps_to_execute:
-
-        ## YOUR CODE HERE: call the check_data step
         _ = mlflow.run(
             os.path.join(root_path, "preprocess"),
             "main",
