@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/georgeboorman/Documents/udacity/cd0581-building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/mlruns/0/04b3ebd3c6eb4e078809806e3974978a/artifacts
+end_time: 1664026231065
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 04b3ebd3c6eb4e078809806e3974978a
+run_uuid: 04b3ebd3c6eb4e078809806e3974978a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1664026225378
+status: 4
+tags: []
+user_id: georgeboorman
